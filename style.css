@@ -1,0 +1,28 @@
+#body{
+background-color: aquamarine;
+}
+#h4{
+font-style: italic;
+}
+#camera{
+    width: 500;
+    height: 400;
+    border-color: blueviolet;
+}
+.image1{
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+.image2{
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+.image3{
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+img:hover{
+    border-radius: 140px;
+}
